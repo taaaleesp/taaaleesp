@@ -46,10 +46,10 @@ Recentemente finalizei a Especialização em Blue Team pelo programa Hackers do 
 
 <details open>
 <summary><b>Ferramentas 🔧</b></summary>
-## Ferramentas conceituais: Wireshark, Nmap, SIEM Fundamentals, Active Directory (IAM), PKI / Certificados.
+Ferramentas conceituais: Wireshark, Nmap, SIEM Fundamentals, Active Directory (IAM), PKI / Certificados.
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,wireshark,nmap,apple,linux,ubuntu,debian,kali,notion,windows,powershell,robloxstudio,sublime)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,apple,linux,ubuntu,debian,kali,notion,windows,powershell,robloxstudio,sublime)](https://skillicons.dev)
 </details>
 
 
