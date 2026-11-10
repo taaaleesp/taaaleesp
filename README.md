@@ -7,17 +7,17 @@
 
 ## Hello World! 👋✨
 
-Sou um Profissional de T.I com um sólido background de 12 anos de Experiência. Ao longo da minha carreira, tive a oportunidade de trabalhar em ambientes desafiadores, onde aprimorei minhas habilidades em diversas situações. Sou entusiasta de tendências emergentes em T.I., como Inteligência Artificial, Segurança Cibernética, Testes de Software e Reparos de Equipamentos Mobile e Desktops. Estou sempre buscando estar à frente das últimas inovações. Minha formação acadêmica inclui um Curso Superior em Gestão da Tecnologia da Informação, onde desenvolvi uma base sólida em gerenciamento de software, hardware e de pessoas em uma organização. 
-Estou comprometido em impulsionar o sucesso organizacional através da aplicação estratégica da tecnologia. Atualmente, estou dedicado aos estudos como graduando em Ciência da Computação na Universidade Federal de Mato Grosso.
+Sou um profissional de tecnologia com mais de 13 anos de vivência em infraestrutura e troubleshooting corporativo (N2/N3), atualmente graduando em Ciência da Computação (UFMT). Após consolidar uma visão sistêmica sobre o funcionamento e as vulnerabilidades de redes e sistemas operacionais, decidi direcionar minha carreira integralmente para a Cibersegurança (Blue Team).
 
+Recentemente finalizei a Especialização em Blue Team pelo programa Hackers do Bem (RNP/Governo Federal) e sou bolsista na 13ª Maratona CiberEducação Cisco Brasil. Busco utilizar meu histórico de análise de incidentes e sistemas críticos para atuar em detecção de ameaças, gestão de vulnerabilidades e resposta a incidentes.
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
 
-* 🌱 Atualmente estou estudando **C++ e Java**.
-* 🚀 Meu Objetivo no futuro e me tornar um **Especialista em Cibersegurança**.
-* 🎓 Estou cursando **Ciência da Computação** na **UFMT - Universidade Federal de Mato Grosso**.
-* 💬 Me pergunte sobre **Tecnologia**.
-* 🔍 Veja meu Linkedin [**Tales Oliveira**](https://www.linkedin.com/in/talesoliveira57/)!
+* 🛡️ Especializado em Blue Team (Hackers do Bem).
+* 🎓 Graduando em Ciência da Computação pela UFMT.
+* 🌱 Atualmente aprimorando automação defensiva com Python e Bash e aprofundando redes (Cisco).
+* 🎯 Foco atual: Security Operations Center (SOC) e Análise de Vulnerabilidades.
+* 🔍 Veja meu Linkedin: [**Tales Oliveira**](https://www.linkedin.com/in/talesoliveira57/)!
 
 <br>
 
@@ -28,7 +28,7 @@ Estou comprometido em impulsionar o sucesso organizacional através da aplicaç�
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" target="_blank">
 </a>
 
-## Tech Stack 💻
+## Tech & Security Stack ⚙️
 
 <details open>
 <summary><b>Desenvolvimento FrontEnd 🎨</b></summary>
@@ -46,9 +46,10 @@ Estou comprometido em impulsionar o sucesso organizacional através da aplicaç�
 
 <details open>
 <summary><b>Ferramentas 🔧</b></summary>
+## Ferramentas conceituais: Wireshark, Nmap, SIEM Fundamentals, Active Directory (IAM), PKI / Certificados.
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,apple,linux,ubuntu,debian,kali,notion,windows,powershell,robloxstudio,sublime)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,wireshark,nmap,apple,linux,ubuntu,debian,kali,notion,windows,powershell,robloxstudio,sublime)](https://skillicons.dev)
 </details>
 
 
