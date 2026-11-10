@@ -28,28 +28,28 @@ Recentemente finalizei a Especialização em Blue Team pelo programa Hackers do 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" target="_blank">
 </a>
 
-## Tech & Security Stack ⚙️
+## Tech & Security Stack 🛡️
 
 <details open>
-<summary><b>Desenvolvimento FrontEnd 🎨</b></summary>
+<summary><b>Linguagens & Scripting (Automação e Análise) 💻</b></summary>
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,django,flask,flutter,react,redux,bootstrap,jquery)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,java,powershell,bash,mysql)](https://skillicons.dev)
 </details>
 
 <details open>
-<summary><b>Desenvolvimento BackEnd ⚙️</b></summary>
+<summary><b>Sistemas Operacionais & Infraestrutura 🐧</b></summary>
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,php,mysql,nodejs,java,firebase,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,debian,kali,windows,apple)](https://skillicons.dev)
 </details>
 
 <details open>
-<summary><b>Ferramentas 🔧</b></summary>
-Ferramentas conceituais: Wireshark, Nmap, SIEM Fundamentals, Active Directory (IAM), PKI / Certificados.
+<summary><b>Ferramentas & Versionamento 🔧</b></summary>
+*Ferramentas de linha de comando e análise: Wireshark, Nmap, SIEM Fundamentals, Active Directory (IAM), PKI / Certificados.*
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,apple,linux,ubuntu,debian,kali,notion,windows,powershell,robloxstudio,sublime)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,sublime,notion)](https://skillicons.dev)
 </details>
 
 
